@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kategoriya2"
+        android:icon="@drawable/kategoriya_images"
+        android:title="Kategoriya" />
+    <item
+        android:id="@+id/lugatlar2"
+        android:icon="@drawable/sozlar_images"
+        android:title="so'zlar" />
+
+
+</menu>

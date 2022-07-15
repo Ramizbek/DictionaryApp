@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/activity_asosiy_kategoriya_lugat.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/activity_malumot_korish.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/activity_soz_qoshish_yoki_tahrirlash.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/activity_splash_scrin.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/activity_tahrirlash_ochirish_soz.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/custom_spinner.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/fragment_asosiy.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/fragment_kategoriya.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/fragment_lugatlar.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/fragment_tanlangan.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/fragment_test.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/item_asosiy.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/item_categoriya.xml" value="0.33" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/kategoriya_ochirish.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/kategoriya_qoshish.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/lugat_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/layout/soz_ochirish.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/menu/my_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/menu/my_menu_ichki.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/menu/my_menu_kategoriya.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/menu/my_menu_rasimi_qosish.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2175" />
+        <entry key="..\:/AndroidPRO/DictionaryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2175" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

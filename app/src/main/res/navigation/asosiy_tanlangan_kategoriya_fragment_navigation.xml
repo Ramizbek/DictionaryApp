@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/asosiy2"
+    android:id="@+id/asosiy_tanlangan_kategoriya_fragment_navigation">
+
+    <fragment
+        android:id="@+id/tanlangan2"
+        android:name="ramizbek.aliyev.dictionaryapp.fragment.Tanlangan"
+        android:label="fragment_tanlangan"
+        tools:layout="@layout/fragment_tanlangan" />
+    <fragment
+        android:id="@+id/asosiy2"
+        android:name="ramizbek.aliyev.dictionaryapp.fragment.Asosiy"
+        android:label="fragment_asosiy"
+        tools:layout="@layout/fragment_asosiy" />
+</navigation>

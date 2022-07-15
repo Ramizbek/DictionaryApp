@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/asosiy2"
+        android:icon="@drawable/home"
+        android:title="Main" />
+    <item
+        android:id="@+id/tanlangan2"
+        android:icon="@drawable/tanlangan"
+        android:title="Favourite" />
+
+
+</menu>
